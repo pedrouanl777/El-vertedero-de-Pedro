@@ -1,3 +1,4 @@
+#22. Simular el lanzamiento de un dado y una moneda
 import random
 
 res = input("Desea lanzar los dados: S/N ")
